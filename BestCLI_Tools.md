@@ -1,5 +1,3 @@
----
-
 ## Entertainment
 
 - [newsboat](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
